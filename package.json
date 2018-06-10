@@ -1,0 +1,29 @@
+{
+  "name": "youjia-front-source",
+  "author": "18246",
+  "version": "1.0.0",
+  "description": "An awesome project",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "nowa server",
+    "build": "nowa build",
+    "eslint": "nowa eslint"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "~2.1.2",
+    "eslint": "^4.19.1",
+    "natty-fetch": "~2.4.2",
+    "natty-storage": "~2.0.2",
+    "rc-form": "^2.2.0",
+    "refast": "~1.2.3",
+    "saltui": "^3.1.17"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.6.2"
+  }
+}
